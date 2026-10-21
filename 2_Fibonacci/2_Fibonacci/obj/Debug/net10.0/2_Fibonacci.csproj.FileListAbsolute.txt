@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.AssemblyInfo.cs
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\bin\Debug\net10.0\2_Fibonacci.exe
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\bin\Debug\net10.0\2_Fibonacci.deps.json
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\bin\Debug\net10.0\2_Fibonacci.runtimeconfig.json
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\bin\Debug\net10.0\2_Fibonacci.dll
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\bin\Debug\net10.0\2_Fibonacci.pdb
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.dll
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\refint\2_Fibonacci.dll
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.pdb
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\2_Fibonacci.genruntimeconfig.cache
+C:\Users\zahid\source\repos\2_Fibonacci\2_Fibonacci\obj\Debug\net10.0\ref\2_Fibonacci.dll
