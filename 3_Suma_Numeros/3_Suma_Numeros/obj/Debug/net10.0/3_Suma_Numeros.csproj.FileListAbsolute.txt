@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\bin\Debug\net10.0\3_Suma_Numeros.exe
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\bin\Debug\net10.0\3_Suma_Numeros.deps.json
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\bin\Debug\net10.0\3_Suma_Numeros.runtimeconfig.json
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\bin\Debug\net10.0\3_Suma_Numeros.dll
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\bin\Debug\net10.0\3_Suma_Numeros.pdb
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.AssemblyInfo.cs
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.dll
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\refint\3_Suma_Numeros.dll
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.pdb
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\3_Suma_Numeros.genruntimeconfig.cache
+C:\Users\zahid\source\repos\3_Suma_Numeros\3_Suma_Numeros\obj\Debug\net10.0\ref\3_Suma_Numeros.dll
