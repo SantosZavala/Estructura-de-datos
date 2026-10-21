@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\bin\Debug\net10.0\4_Potencia.exe
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\bin\Debug\net10.0\4_Potencia.deps.json
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\bin\Debug\net10.0\4_Potencia.runtimeconfig.json
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\bin\Debug\net10.0\4_Potencia.dll
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\bin\Debug\net10.0\4_Potencia.pdb
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.AssemblyInfo.cs
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.dll
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\refint\4_Potencia.dll
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.pdb
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\4_Potencia.genruntimeconfig.cache
+C:\Users\zahid\source\repos\4_Potencia\4_Potencia\obj\Debug\net10.0\ref\4_Potencia.dll
