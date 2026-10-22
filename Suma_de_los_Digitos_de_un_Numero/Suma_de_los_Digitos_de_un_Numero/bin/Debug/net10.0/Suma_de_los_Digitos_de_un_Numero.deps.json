@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Suma_de_los_Digitos_de_un_Numero/1.0.0": {
+        "runtime": {
+          "Suma_de_los_Digitos_de_un_Numero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Suma_de_los_Digitos_de_un_Numero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

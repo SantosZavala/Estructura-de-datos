@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\bin\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.exe
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\bin\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.deps.json
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\bin\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.runtimeconfig.json
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\bin\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.dll
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\bin\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.pdb
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.dll
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\refint\6_Suma_de_los_Digitos_de_un_Numero.dll
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.pdb
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\6_Suma_de_los_Digitos_de_un_Numero.genruntimeconfig.cache
+C:\Users\zahid\source\repos\Suma_de_los_Digitos_de_un_Numero\Suma_de_los_Digitos_de_un_Numero\obj\Debug\net10.0\ref\6_Suma_de_los_Digitos_de_un_Numero.dll
