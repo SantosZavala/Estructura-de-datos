@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "7_Determinar_si_un_Numero_es_Par_o_Impar/1.0.0": {
+        "runtime": {
+          "7_Determinar_si_un_Numero_es_Par_o_Impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_Determinar_si_un_Numero_es_Par_o_Impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
